@@ -20,7 +20,7 @@ REST API untuk aplikasi pencatat pengeluaran **Xpense**, dibangun dengan **Larav
 
 Xpense Backend adalah API yang melayani seluruh kebutuhan data dari Xpense Frontend. Menangani autentikasi pengguna, manajemen kategori, pencatatan pengeluaran, hingga analitik seperti grafik tren dan ringkasan bulanan.
 
-> Repo ini **harus dijalankan bersama** [xpense-frontend](../expense-frontend). Keduanya saling terhubung — backend menyediakan data, frontend menampilkannya.
+> Repo ini **harus dijalankan bersama** [xpense-frontend](https://github.com/zzabinaan/expense-frontend/). Keduanya saling terhubung — backend menyediakan data, frontend menampilkannya.
 
 ---
 
